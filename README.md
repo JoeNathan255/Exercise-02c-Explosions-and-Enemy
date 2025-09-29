@@ -1,8 +1,8 @@
-# Exercise-02c-Explosions-and-Enemy
+# Exercise-02d-Scenes-And-Menus
 
 Exercise for MSCH-C220
 
-A user-controlled ship in a space-shooter game. Explosions! Asteroids! Smaller asteroids! An alien ship! Created in Godot.
+A basic space-shooter arcade game, created in Unity.
 
 ## Implementation
 
@@ -12,7 +12,7 @@ Created using [Unity 2022.3.62f1](https://unity.com).
 None
 
 ## Future Development
-Score, lives, game-start and game-end screens. In-game menu.
+None
 
 ## Created by
 Jonathan Staten
