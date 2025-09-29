@@ -1,4 +1,4 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
 Exercise for MSCH-C220
 
